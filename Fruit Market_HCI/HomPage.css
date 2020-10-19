@@ -1,0 +1,27 @@
+body {
+  background-color: ivory;
+}
+h1 {
+  color: brown;
+  font-size: 80px ;
+  font-family: Arial Narrow, sans-serif ;
+}
+h2 {
+	color: brown;
+	font-size: 40px;
+}
+h5 {
+	color: black;
+	font-size: 40px ;
+	font-family: Times, Times New Roman, serif;
+}
+p {
+  color: green;
+}
+img {
+  display: block;
+  border-radius: 45%;
+  height: 50%;
+  width: 30%;
+}
+ 
