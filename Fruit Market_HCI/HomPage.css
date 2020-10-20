@@ -24,4 +24,12 @@ img {
   height: 50%;
   width: 30%;
 }
- 
+img2 {
+	border: 50%;
+	float: center;
+}
+textarea {
+	background-color:gainsboro;
+	boxshadow:20px 10px;
+	
+}
